@@ -1,7 +1,7 @@
 # freeCampCode
 Stores the work I've done for freeCampCode exercises / projects.
 
-##APIs and Microservices
+## APIs and Microservices
 
 ### boilerplate-npm
 Exercises for the unit [Managing Packages with NPM](https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm).
@@ -29,3 +29,10 @@ Project #4 - [Exercise TrackerPassed](https://www.freecodecamp.org/learn/apis-an
 
 ### boilerplate-project-filemetadata
 Project #5 - [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
+
+
+## Quality Assurance
+
+### boilerplate-mochachai
+Exercises for the unit [Quality Assurance and Testing with Chai](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai).
+
