@@ -1,5 +1,5 @@
-# freeCampCode
-Stores the work I've done for freeCampCode exercises / projects.
+# freeCodeCamp
+Stores the work I've done for freeCodeCamp exercises / projects.
 
 ## APIs and Microservices
 
