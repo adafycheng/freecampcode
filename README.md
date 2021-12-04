@@ -1,6 +1,11 @@
 # freeCodeCamp
 Stores the work I've done for freeCodeCamp exercises / projects.
 
+## Front End Development Libraries
+
+### react-exercises
+Exercises for the unit [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+
 ## APIs and Microservices
 
 ### boilerplate-npm
