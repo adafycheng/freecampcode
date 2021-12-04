@@ -6,7 +6,7 @@ Stores the work I've done for freeCodeCamp exercises / projects.
 ### react-exercises
 Exercises for the unit [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 
-## APIs and Microservices
+## Back End Development and APIs
 
 ### boilerplate-npm
 Exercises for the unit [Managing Packages with NPM](https://www.freecodecamp.org/learn/apis-and-microservices/#managing-packages-with-npm).
