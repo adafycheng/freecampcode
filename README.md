@@ -37,14 +37,20 @@ Project #5 - [File Metadata Microservice](https://www.freecodecamp.org/learn/api
 
 
 ## Scientific Computing with Python
+
+### boilerplate-arithmetic-formatter
 Project #1 - [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
+### boilerplate-time-calculator
 Project #2 - [Time Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 
+### boilerplate-budget-app
 Project #3 - [Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 
+### boilerplate-polygon-area-calculator
 Project #4 - [polygon Area Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
 
+### boilerplate-probability-calculator
 Project #5 - [Probability Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
 
 
